@@ -1,2 +1,7 @@
+## GE Health technical exam
 
-This code is the results of a technical interview test I did for a staff data scientist position at GE health in Poland
+I recently participated in a technical interview for the position of Staff Data Scientist at GE Health, where my technical skills were evaluated through a comprehensive assessment. The assignment comprised 13 detailed questions aimed at examining various aspects of data analysis and machine learning. These questions focused on understanding the relationships and cardinality between systemid, location, and serial_number, identifying outliers and trends in time series data, classifying time series shapes, and developing predictive models.
+
+The assessment required analyzing the temporal sequence of locations for serial_numbers, detecting outliers in time series data, and implementing a method to classify the qualitative shapes of time series. It also included evaluating the performance of classifiers and models, characterizing noise in specific time series, and forecasting future values of another variable (v2).
+
+The structure of my solution was organized into three main sections: the first section involved importing necessary packages; the second section included defining useful functions to simplify later stages of the code; and the third section focused on importing the data and providing an initial overview of its nature and completeness. This structured approach ensured a comprehensive and methodical analysis, addressing each of the given questions effectively.
